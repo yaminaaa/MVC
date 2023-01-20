@@ -1,0 +1,27 @@
+{
+  "name": "s02-atelier-mvc-gregoclock",
+  "version": "1.0.0",
+  "description": "Nous allons mettre en place un site contenant quelques pages. Nous allons nous concentrer sur l'architecture MVC. Pour le déroulement nous allons procéder par View / Router / Controller / Model mais vous pouvez faire dans un ordre différent.",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-social-builder/S02-atelier-MVC-gregoclock.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-social-builder/S02-atelier-MVC-gregoclock/issues"
+  },
+  "homepage": "https://github.com/O-clock-social-builder/S02-atelier-MVC-gregoclock#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  }
+}
